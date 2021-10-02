@@ -1,0 +1,15 @@
+[submodule "src/ROBOTIS-OP3"]
+	path = src/ROBOTIS-OP3
+	url = git@github.com:sepakbola-humanoid-group/ROBOTIS-OP3.git
+[submodule "src/ROBOTIS-OP3-msgs"]
+	path = src/ROBOTIS-OP3-msgs
+	url = git@github.com:sepakbola-humanoid-group/ROBOTIS-OP3-msgs.git
+[submodule "src/ROBOTIS-OP3-Tools"]
+	path = src/ROBOTIS-OP3-Tools
+	url = git@github.com:sepakbola-humanoid-group/ROBOTIS-OP3-Tools.git
+[submodule "src/ROBOTIS-Framework"]
+	path = src/ROBOTIS-Framework
+	url = git@github.com:sepakbola-humanoid-group/ROBOTIS-Framework.git
+[submodule "src/bitbots_utilities/wolfgang_robot"]
+	path = src/bitbots_utilities/wolfgang_robot
+	url = git@github.com:sepakbola-humanoid-group/wolfgang_robot.git

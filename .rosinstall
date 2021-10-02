@@ -1,0 +1,29 @@
+# IT IS UNLIKELY YOU WANT TO EDIT THIS FILE BY HAND,
+# UNLESS FOR REMOVING ENTRIES.
+# IF YOU WANT TO CHANGE THE ROS ENVIRONMENT VARIABLES
+# USE THE rosinstall TOOL INSTEAD.
+# IF YOU CHANGE IT, USE rosinstall FOR THE CHANGES TO TAKE EFFECT
+- git: {local-name: DynamixelSDK, uri: 'https://github.com/ROBOTIS-GIT/DynamixelSDK.git',
+    version: master}
+- git: {local-name: ROBOTIS-Framework-msgs, uri: 'https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs.git',
+    version: master}
+- git: {local-name: ROBOTIS-Math, uri: 'https://github.com/ROBOTIS-GIT/ROBOTIS-Math.git',
+    version: master}
+- git: {local-name: ROBOTIS-OP3-Common, uri: 'https://github.com/ROBOTIS-GIT/ROBOTIS-OP3-Common.git',
+    version: master}
+- git: {local-name: bitbots_utilities/bitbots_msgs, uri: 'https://github.com/bit-bots/bitbots_msgs.git',
+    version: master}
+- git: {local-name: bitbots_utilities/bitbots_tools, uri: 'https://github.com/bit-bots/bitbots_tools.git',
+    version: master}
+- git: {local-name: bitbots_utilities/humanoid_league_msgs, uri: 'https://github.com/bit-bots/humanoid_league_msgs.git',
+    version: master}
+- git: {local-name: bitbots_utilities/wolfgang_robot, uri: 'https://github.com/sepakbola-humanoid-group/wolfgang_robot.git',
+    version: master}
+- git: {local-name: ROBOTIS-Framework, uri: 'https://github.com/sepakbola-humanoid-group/ROBOTIS-Framework.git',
+    version: master}
+- git: {local-name: ROBOTIS-OP3, uri: 'https://github.com/sepakbola-humanoid-group/ROBOTIS-OP3.git',
+    version: master}
+- git: {local-name: ROBOTIS-OP3-msgs, uri: 'https://github.com/sepakbola-humanoid-group/ROBOTIS-OP3-msgs.git',
+    version: master}
+- git: {local-name: ROBOTIS-OP3-Tools, uri: 'https://github.com/sepakbola-humanoid-group/ROBOTIS-OP3-Tools.git',
+    version: master}
