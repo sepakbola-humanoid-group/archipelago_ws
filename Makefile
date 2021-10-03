@@ -6,11 +6,11 @@ build:
 clean:
 	catkin clean
 
-update: pull-all
-	rosdep install -irya
+install:
+	vcs import --input .rosinstall --skip-existing --recursive src 
+	$(MAKE) update
 
-pull-all:
-	git pull
+update:
 	scripts/pull_all.sh
 
 status:

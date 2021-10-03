@@ -13,11 +13,11 @@ This project incorporates components from the projects listed below.
 6.  ROBOTIS-Math (https://github.com/ROBOTIS-GIT/ROBOTIS-Math)
 7.  ROBOTIS-Framework (https://github.com/ROBOTIS-GIT/ROBOTIS-Framework)
 8.  ROBOTIS-Framework-msgs (https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs)
-9.  DynamixelSDK
-10. bitbots_msgs
-11. bitbots_tools
-12. humanoid_league_msgs
-13. wolfgang_robot
+9.  DynamixelSDK (https://github.com/ROBOTIS-GIT/DynamixelSDK)
+10. bitbots_msgs (https://github.com/bit-bots/bitbots_msgs)
+11. bitbots_tools (https://github.com/bit-bots/bitbots_tools)
+12. humanoid_league_msgs (https://github.com/bit-bots/humanoid_league_msgs)
+13. wolfgang_robot (https://github.com/bit-bots/wolfgang_robot/)
 
 %% ROBOTIS-OP3 NOTICES AND INFORMATION BEGIN HERE
 =========================================
