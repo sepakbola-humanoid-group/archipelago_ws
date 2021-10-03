@@ -1,0 +1,29 @@
+repositories:
+  DynamixelSDK:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+    version: master
+  ROBOTIS-Framework-msgs:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs.git
+    version: master
+  ROBOTIS-Math:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/ROBOTIS-Math.git
+    version: master
+  ROBOTIS-OP3-Common:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/ROBOTIS-OP3-Common.git
+    version: master
+  bitbots_utilities/bitbots_msgs:
+    type: git
+    url: https://github.com/bit-bots/bitbots_msgs.git
+    version: master
+  bitbots_utilities/bitbots_tools:
+    type: git
+    url: https://github.com/bit-bots/bitbots_tools.git
+    version: master
+  bitbots_utilities/humanoid_league_msgs:
+    type: git
+    url: https://github.com/bit-bots/humanoid_league_msgs.git
+    version: master
